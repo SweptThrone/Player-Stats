@@ -1,4 +1,5 @@
 --change these colors however you want
+--the addons will use these in the messages
 local BASE_TEXT_COLOR = Color( 255, 255, 128 )
 local PLAYER_TEXT_COLOR = Color( 128, 255, 128 )
 local NUMBER_COLOR = Color( 255, 128, 128 )
